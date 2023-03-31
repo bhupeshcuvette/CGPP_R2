@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.upperText{
+    position: absolute;
+    width: 277px;
+    height: 71px;
+    left: 222px;
+    top: 225px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 99.19%;
+    letter-spacing: 0.025em;
+    color: #FFFFFF;
+}
+
+.lowerText{
+    position: absolute;
+    width: 315px;
+    height: 9px;
+    left: 222px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 99.19%;
+    letter-spacing: 0.018em;
+    white-space: nowrap;
+    color: #FFFFFF;
+
+}
